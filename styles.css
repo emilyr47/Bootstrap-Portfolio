@@ -1,0 +1,32 @@
+body{
+    background: white;
+    color: white;
+}
+
+img {
+    padding-left: 40px;
+    padding-top: 40px;
+    border-right: 40px;
+}
+
+.p1 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: aqua;
+    padding-top: 100px;
+    text-align: right;
+
+}
+
+.container {
+    background: lightblue;
+}
+
+.fixed-bottom {
+    background: lightgray;
+    height: 54px;
+    text-align: center;
+}
